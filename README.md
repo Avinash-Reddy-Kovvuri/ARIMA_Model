@@ -1,3 +1,3 @@
-# Time Series Models
+# ARIMA Model
 
-This note book consists of different Time Series Machine learning Models used to forecast future values and are of predicted by the type of ML model used with respect to the data.
+ARIMA is a combination of AR and MA models with differnece to make data stationary is represented as I
